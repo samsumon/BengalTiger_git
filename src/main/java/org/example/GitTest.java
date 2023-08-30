@@ -6,7 +6,6 @@ public class GitTest {
             System.out.println("My age is 34");
             System.out.println("I am a good boy!");
             System.out.println("I study hard!");
-            System.out.println("I listen to my teachers");
 
         }
     }
